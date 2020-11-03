@@ -26,5 +26,4 @@ const [data, loading, error] = useJsonFetch(url, opts);
   <li>GET http://localhost:7070/loading - индикатор загрузки</li>
 </ul>
 
-Исходное задание:
-https://github.com/netology-code/ra16-homeworks/tree/master/hooks-context/use-json-fetch
+<i>Исходное задание: https://github.com/netology-code/ra16-homeworks/tree/master/hooks-context/use-json-fetch </i>
